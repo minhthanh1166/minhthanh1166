@@ -45,4 +45,4 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/AMVND/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AMVND&layout=compact&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="AMVND" /></a> </p>
+<p align="center"> <a href="https://github.com/minhthanh1166/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhthanh1166&layout=compact&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="minhthanh1166" /></a> </p>
