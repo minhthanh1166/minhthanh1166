@@ -6,7 +6,7 @@
 
 ## 🌐Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/BuiMinhThanh#7826) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/BuiMinhThanhh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/BuiMinhThanhh)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/BuiMinhThanh#7826) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](BuiMinhThanhh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](BuiMinhThanhh)
 
 # 💻Tech Stack
 
@@ -32,4 +32,9 @@
 
 ---
 
+<<<<<<< HEAD
 [![](https://visitcount.itsvg.in/api?id=minhthanh1166&icon=0&color=0)](https://visitcount.itsvg.in)
+=======
+
+<p align="center"> <a href="https://github.com/minhthanh1166/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhthanh1166&layout=compact&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="minhthanh1166" /></a> </p>
+>>>>>>> c4d96dc2d3ee2889dbd0e165420ee37500b1115e
