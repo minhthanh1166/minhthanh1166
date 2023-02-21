@@ -6,7 +6,7 @@
 
 ## 🌐Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#7826) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/BuiMinhThanhh/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/BuiMinhThanhh/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/1077526808523722803) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/BuiMinhThanhh/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/BuiMinhThanhh/)
 
 # 💻Tech Stack
 
@@ -26,9 +26,10 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
+### ✍️BuiMinhThanh DEV
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!--
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 
