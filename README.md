@@ -1,7 +1,7 @@
 # 💫About Me :
 
 - My full name is : Bui Minh Thanh
-- DOB : 11, Jun ,2001
+- DOB : 11, June ,2001
 - Favorite : Play game CS GO
 
 ## 🌐Socials
