@@ -40,5 +40,3 @@
 <p align="center"> <a href="https://github.com/minhthanh1166/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhthanh1166&layout=compact&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="minhthanh1166" /></a> </p>
 <!-- >>>>>>> c4d96dc2d3ee2889dbd0e165420ee37500b1115e -->
 >>>>>>> END
-=======
-[![](https://visitcount.itsvg.in/api?id=minhthanh1166&icon=0&color=0)]()
